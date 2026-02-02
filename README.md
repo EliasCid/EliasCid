@@ -13,9 +13,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliasCid&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EliasCid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliasCid&theme=noctis-minimus&hide_border=true&hide_title=false&area=true" height="150" alt="activity-graph graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliasCid&theme=github_dark" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliasCid&theme=github_dark" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliasCid&theme=github_dark" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EliasCid&theme=github_dark&utcOffset=-3" width="31%" align="center" />  
 </div>
 
 ###
